@@ -1,0 +1,3 @@
+[56612:68804:0310/202120.565:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.v9.filemap.sogouime
+[56612:68804:0310/202120.566:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[56612:68804:0310/202120.566:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9

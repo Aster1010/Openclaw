@@ -20,7 +20,7 @@ export default function ContactPage() {
               Get in Touch
             </h1>
             <p className="text-white/60 text-lg">
-              Have questions about our products or want to discuss a partnership? We'd love to hear from you.
+              Have questions about our products or want to discuss a partnership? We&apos;d love to hear from you.
             </p>
           </div>
 

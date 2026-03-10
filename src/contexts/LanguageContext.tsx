@@ -37,7 +37,7 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   const t = (key: string): string => {
     const keys = key.split('.');
-    let current: any = messagesMap[language];
+    let current: Record<string, unknown> | string = messagesMap[language];
     
     for (const k of keys) {
       if (current === undefined) return key;
