@@ -1,0 +1,216 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "download": "Download",
+    "docs": "Docs",
+    "login": "Login",
+    "start": "Get Started Free"
+  },
+  "hero": {
+    "title": "One Claw, All AI",
+    "subtitle": "GPT / Claude / Gemini unified. Install once, use everything.",
+    "cta_primary": "Download OpenClaw",
+    "cta_secondary": "View Plans"
+  },
+  "products": {
+    "title": "Our Core Products",
+    "subtitle": "Discover our suite of Web3 tools designed to empower the next generation of decentralized applications.",
+    "list": {
+      "defi": {
+        "title": "DeFi Shield",
+        "desc": "Advanced security protocols for decentralized finance applications."
+      },
+      "node": {
+        "title": "Lightning Node",
+        "desc": "High-performance blockchain nodes with sub-millisecond latency."
+      },
+      "data": {
+        "title": "Data Forge",
+        "desc": "Immutable storage solutions for enterprise-grade data integrity."
+      }
+    }
+  },
+  "features": {
+    "title": "Why Choose",
+    "title_highlight": "OpenClaw",
+    "desc": "We provide the infrastructure backbone for the decentralized web. Our platform is built for developers who demand performance without compromise.",
+    "list": {
+      "security": {
+        "title": "Bank-Grade Security",
+        "desc": "Multi-layer encryption and rigorous auditing ensure your assets remain safe."
+      },
+      "scalability": {
+        "title": "Global Scalability",
+        "desc": "Distributed infrastructure designed to handle millions of transactions per second."
+      },
+      "automation": {
+        "title": "Smart Automation",
+        "desc": "AI-driven contract optimization and gas fee management."
+      },
+      "crosschain": {
+        "title": "Cross-Chain Support",
+        "desc": "Seamless interoperability between major blockchain networks."
+      }
+    },
+    "stats": {
+      "models": {
+        "value": "10+",
+        "label": "Supported Models"
+      },
+      "uptime": {
+        "value": "99.9%",
+        "label": "Uptime Guarantee"
+      },
+      "latency": {
+        "value": "50ms",
+        "label": "Avg Latency"
+      },
+      "developers": {
+        "value": "100k+",
+        "label": "Developers"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Choose Your",
+    "title_highlight": "Power",
+    "subtitle": "Scale your AI capabilities with our flexible pricing plans.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "yearly_discount": "20% OFF",
+    "most_popular": "MOST POPULAR",
+    "per_month": "/mo",
+    "per_year": "/yr",
+    "avg_month": "Avg",
+    "save": "Save",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "description": "Ideal for trying out OpenClaw.",
+        "cta": "Start for Free",
+        "features": {
+          "gpt35": "Access to GPT-3.5",
+          "requests": "50 requests/day",
+          "community": "Community Support",
+          "api": "API Access",
+          "custom": "Custom Models"
+        }
+      },
+      "solo": {
+        "name": "Solo",
+        "description": "For individual developers.",
+        "cta": "Get Solo",
+        "features": {
+          "gpt4o": "Access to GPT-4o",
+          "requests": "500 requests/day",
+          "email": "Email Support",
+          "api": "API Access",
+          "custom": "Custom Models"
+        }
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "Power users and small teams.",
+        "cta": "Get Pro",
+        "features": {
+          "all_models": "Access to All Models",
+          "requests": "2000 requests/day",
+          "priority": "Priority Support",
+          "api": "API Access",
+          "custom": "1 Custom Model"
+        }
+      },
+      "ultra": {
+        "name": "Ultra",
+        "description": "For scaling applications.",
+        "cta": "Get Ultra",
+        "features": {
+          "all_models": "Access to All Models",
+          "requests": "Unlimited requests",
+          "support": "24/7 Support",
+          "api": "API Access",
+          "custom": "5 Custom Models"
+        }
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Full control and security.",
+        "cta": "Contact Sales",
+        "features": {
+          "dedicated": "Dedicated Instance",
+          "requests": "Unlimited requests",
+          "manager": "Dedicated Account Manager",
+          "sla": "SLA Guarantee",
+          "custom": "Unlimited Custom Models"
+        }
+      }
+    },
+    "standalone": {
+      "title": "Standalone Model Packages",
+      "add": "Add to Plan",
+      "packages": {
+        "openai": {
+          "name": "OpenAI Pack",
+          "desc": "GPT-4o, DALL-E 3, Whisper"
+        },
+        "claude": {
+          "name": "Claude Pack",
+          "desc": "Claude 3.5 Sonnet, Opus"
+        },
+        "gemini": {
+          "name": "Gemini Pack",
+          "desc": "Gemini 1.5 Pro, Flash"
+        }
+      }
+    }
+  },
+  "download": {
+    "title": "Download",
+    "subtitle": "Get the native app for your platform. Secure, fast, and built for developers.",
+    "windows": {
+      "title": "Windows",
+      "subtitle": "Windows 10/11 (64-bit)"
+    },
+    "mac": {
+      "title": "macOS",
+      "subtitle": "macOS 11+ (Intel/Apple Silicon)"
+    },
+    "linux": {
+      "title": "Linux",
+      "subtitle": "AppImage (Ubuntu, Fedora, etc.)"
+    },
+    "button": {
+      "loading": "Loading...",
+      "download": "Download"
+    },
+    "changelog": {
+      "title": "Update Changelog"
+    }
+  },
+  "footer": {
+    "desc": "One Claw, All AI. Unified API solutions for developers.",
+    "products": "Products",
+    "products_list": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "download": "Download App",
+      "changelog": "Changelog"
+    },
+    "developers": "Developers",
+    "developers_list": {
+      "docs": "API Docs",
+      "sdk": "SDKs",
+      "status": "Status",
+      "community": "Community"
+    },
+    "company": "Company",
+    "company_list": {
+      "about": "About Us",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "rights": "© {year} OpenClaw Technology. All rights reserved."
+  }
+}

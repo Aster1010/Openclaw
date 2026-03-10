@@ -1,0 +1,216 @@
+{
+  "nav": {
+    "features": "功能",
+    "pricing": "套餐",
+    "download": "下载",
+    "docs": "文档",
+    "login": "登录",
+    "start": "免费开始"
+  },
+  "hero": {
+    "title": "One Claw, All AI",
+    "subtitle": "聚合 GPT / Claude / Gemini，一键安装，开箱即用",
+    "cta_primary": "立即下载 OpenClaw",
+    "cta_secondary": "查看套餐"
+  },
+  "products": {
+    "title": "我们的核心产品",
+    "subtitle": "探索我们为您打造的 Web3 工具套件，赋能下一代去中心化应用。",
+    "list": {
+      "defi": {
+        "title": "DeFi 盾牌",
+        "desc": "去中心化金融应用的高级安全协议。"
+      },
+      "node": {
+        "title": "闪电节点",
+        "desc": "具有亚毫秒级延迟的高性能区块链节点。"
+      },
+      "data": {
+        "title": "数据熔炉",
+        "desc": "企业级数据完整性的不可变存储解决方案。"
+      }
+    }
+  },
+  "features": {
+    "title": "为什么选择",
+    "title_highlight": "OpenClaw",
+    "desc": "我们为去中心化网络提供基础设施骨干。我们的平台专为追求极致性能的开发者打造。",
+    "list": {
+      "security": {
+        "title": "银行级安全",
+        "desc": "多层加密和严格审计确保您的资产安全。"
+      },
+      "scalability": {
+        "title": "全球扩展性",
+        "desc": "分布式架构设计，每秒处理数百万笔交易。"
+      },
+      "automation": {
+        "title": "智能自动化",
+        "desc": "AI 驱动的合约优化和 Gas 费用管理。"
+      },
+      "crosschain": {
+        "title": "跨链支持",
+        "desc": "主要区块链网络之间的无缝互操作性。"
+      }
+    },
+    "stats": {
+      "models": {
+        "value": "10+",
+        "label": "支持模型"
+      },
+      "uptime": {
+        "value": "99.9%",
+        "label": "服务稳定率"
+      },
+      "latency": {
+        "value": "50ms",
+        "label": "平均响应"
+      },
+      "developers": {
+        "value": "10万+",
+        "label": "开发者使用"
+      }
+    }
+  },
+  "pricing": {
+    "title": "选择你的",
+    "title_highlight": "超能力",
+    "subtitle": "灵活的定价方案，助你扩展 AI 能力。",
+    "monthly": "月付",
+    "yearly": "年付",
+    "yearly_discount": "年付8折",
+    "most_popular": "最受欢迎",
+    "per_month": "/月",
+    "per_year": "/年",
+    "avg_month": "月均",
+    "save": "省",
+    "plans": {
+      "free": {
+        "name": "免费版",
+        "description": "适合体验 OpenClaw。",
+        "cta": "免费开始",
+        "features": {
+          "gpt35": "使用 GPT-3.5",
+          "requests": "50次请求/天",
+          "community": "社区支持",
+          "api": "API 访问",
+          "custom": "自定义模型"
+        }
+      },
+      "solo": {
+        "name": "个人版",
+        "description": "适合独立开发者。",
+        "cta": "获取个人版",
+        "features": {
+          "gpt4o": "使用 GPT-4o",
+          "requests": "500次请求/天",
+          "email": "邮件支持",
+          "api": "API 访问",
+          "custom": "自定义模型"
+        }
+      },
+      "pro": {
+        "name": "专业版",
+        "description": "适合重度用户和小团队。",
+        "cta": "获取专业版",
+        "features": {
+          "all_models": "使用所有模型",
+          "requests": "2000次请求/天",
+          "priority": "优先支持",
+          "api": "API 访问",
+          "custom": "1个自定义模型"
+        }
+      },
+      "ultra": {
+        "name": "至尊版",
+        "description": "适合扩展应用。",
+        "cta": "获取至尊版",
+        "features": {
+          "all_models": "使用所有模型",
+          "requests": "无限次请求",
+          "support": "24/7 支持",
+          "api": "API 访问",
+          "custom": "5个自定义模型"
+        }
+      },
+      "enterprise": {
+        "name": "企业版",
+        "description": "完全控制和安全性。",
+        "cta": "联系销售",
+        "features": {
+          "dedicated": "专属实例",
+          "requests": "无限次请求",
+          "manager": "专属客户经理",
+          "sla": "SLA 保证",
+          "custom": "无限自定义模型"
+        }
+      }
+    },
+    "standalone": {
+      "title": "单独模型包",
+      "add": "添加到套餐",
+      "packages": {
+        "openai": {
+          "name": "OpenAI 包",
+          "desc": "GPT-4o, DALL-E 3, Whisper"
+        },
+        "claude": {
+          "name": "Claude 包",
+          "desc": "Claude 3.5 Sonnet, Opus"
+        },
+        "gemini": {
+          "name": "Gemini 包",
+          "desc": "Gemini 1.5 Pro, Flash"
+        }
+      }
+    }
+  },
+  "download": {
+    "title": "下载",
+    "subtitle": "获取您平台的原生应用。安全、快速、专为开发者打造。",
+    "windows": {
+      "title": "Windows",
+      "subtitle": "Windows 10/11 (64位)"
+    },
+    "mac": {
+      "title": "macOS",
+      "subtitle": "macOS 11+ (Intel/Apple Silicon)"
+    },
+    "linux": {
+      "title": "Linux",
+      "subtitle": "AppImage (Ubuntu, Fedora 等)"
+    },
+    "button": {
+      "loading": "加载中...",
+      "download": "下载"
+    },
+    "changelog": {
+      "title": "更新日志"
+    }
+  },
+  "footer": {
+    "desc": "聚合全球顶尖 AI 模型，为开发者提供一站式 API 解决方案。",
+    "products": "产品",
+    "products_list": {
+      "features": "核心功能",
+      "pricing": "价格套餐",
+      "download": "下载客户端",
+      "changelog": "更新日志"
+    },
+    "developers": "开发者",
+    "developers_list": {
+      "docs": "API 文档",
+      "sdk": "SDK 工具包",
+      "status": "服务状态",
+      "community": "开发者社区"
+    },
+    "company": "公司",
+    "company_list": {
+      "about": "关于我们",
+      "contact": "联系我们",
+      "privacy": "隐私政策",
+      "terms": "服务条款"
+    },
+    "rights": "© {year} OpenClaw Technology. All rights reserved."
+  }
+}
