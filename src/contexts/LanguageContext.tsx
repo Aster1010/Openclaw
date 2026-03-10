@@ -37,11 +37,12 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   const t = (key: string): string => {
     const keys = key.split('.');
-    let current: Record<string, unknown> | string = messagesMap[language];
+    let current: unknown = messagesMap[language];
     
     for (const k of keys) {
-      if (current === undefined) return key;
-      current = current[k];
+      if (current === undefined || current === null) return key;
+      if (typeof current === 'string') return key;
+      current = (current as Record<string, unknown>)[k];
     }
     
     return typeof current === 'string' ? current : key;
